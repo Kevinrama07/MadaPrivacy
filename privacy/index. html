@@ -1,0 +1,223 @@
+<!DOCTYPE html>
+<html lang="fr">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Politique de confidentialité — MadaAgri</title>
+    <meta name="description" content="Politique de confidentialité de MadaAgri : comment nous collectons, utilisons et protégeons vos données." />
+
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@500;600;700&family=Inter:wght@400;500;600&display=swap" rel="stylesheet" />
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css" />
+    <link rel="stylesheet" href="styles.css" />
+  </head>
+  <body>
+    <!-- ====== Navbar ====== -->
+    <header class="navbar">
+      <div class="container nav-inner">
+        <a href="privacy.html" class="logo">
+          <i class="fa-solid fa-seedling"></i>
+          MadaAgri
+        </a>
+        <button class="menu-toggle" aria-label="Ouvrir le menu" aria-expanded="false">
+          <i class="fa-solid fa-bars"></i>
+        </button>
+        <ul class="nav-links">
+          <li><a href="https://madaagriprivacy.netlify.app">Confidentialité</a></li>
+          <li><a href="https://madaagricondition.netlify.app" class="active">Conditions</a></li>
+          <li><a href="https://kevinprofil.netlify.app">Contact</a></li>
+        </ul>
+      </div>
+    </header>
+
+    <!-- ====== Hero ====== -->
+    <section class="hero">
+      <div class="container">
+        <span class="hero-badge"><i class="fa-solid fa-shield-halved"></i> Vie privée</span>
+        <h1>Politique de confidentialité</h1>
+        <p>
+          Chez MadaAgri, la protection de vos données est essentielle. Cette politique
+          explique comment nous collectons, utilisons et sécurisons les informations
+          partagées sur notre plateforme dédiée à l'agriculture malgache.
+        </p>
+        <p class="updated">
+          <i class="fa-regular fa-clock"></i> Dernière mise à jour : 23 mai 2026
+        </p>
+      </div>
+    </section>
+
+    <!-- ====== Contenu ====== -->
+    <main class="content">
+      <div class="container section-grid">
+
+        <article class="card">
+          <div class="card-head">
+            <div class="card-icon"><i class="fa-solid fa-circle-info"></i></div>
+            <h2>1. Introduction</h2>
+          </div>
+          <p>
+            MadaAgri est une plateforme sociale et numérique dédiée aux agriculteurs,
+            coopératives et acteurs du monde agricole à Madagascar. Nous mettons à
+            disposition des outils d'échange, de mise en relation et de partage de
+            connaissances. Cette politique décrit nos pratiques en matière de
+            traitement de vos données personnelles.
+          </p>
+        </article>
+
+        <article class="card">
+          <div class="card-head">
+            <div class="card-icon"><i class="fa-solid fa-database"></i></div>
+            <h2>2. Données collectées</h2>
+          </div>
+          <p>Nous collectons uniquement les informations nécessaires :</p>
+          <ul>
+            <li>Identification : nom, prénom, téléphone, e-mail.</li>
+            <li>Profil : région, type d'activité, cultures pratiquées.</li>
+            <li>Contenus publiés : photos, annonces, commentaires, messages.</li>
+            <li>Données techniques : IP, appareil, navigateur, pages consultées.</li>
+            <li>Localisation approximative lorsque vous l'autorisez.</li>
+          </ul>
+        </article>
+
+        <article class="card">
+          <div class="card-head">
+            <div class="card-icon"><i class="fa-solid fa-gears"></i></div>
+            <h2>3. Utilisation des données</h2>
+          </div>
+          <p>Vos données nous permettent notamment de :</p>
+          <ul>
+            <li>Créer et gérer votre compte utilisateur.</li>
+            <li>Vous mettre en relation avec d'autres agriculteurs ou acheteurs.</li>
+            <li>Personnaliser le contenu et les recommandations agricoles.</li>
+            <li>Améliorer la qualité, la sécurité et la performance.</li>
+            <li>Vous envoyer des notifications utiles (conseils, alertes climatiques).</li>
+          </ul>
+        </article>
+
+        <article class="card">
+          <div class="card-head">
+            <div class="card-icon"><i class="fa-solid fa-lock"></i></div>
+            <h2>4. Sécurité des informations</h2>
+          </div>
+          <p>
+            Nous mettons en œuvre des mesures techniques et organisationnelles pour
+            protéger vos données : chiffrement HTTPS, stockage sécurisé, contrôle des
+            accès internes et sauvegardes régulières. Aucune méthode n'étant infaillible,
+            nous vous encourageons à protéger votre mot de passe.
+          </p>
+        </article>
+
+        <article class="card">
+          <div class="card-head">
+            <div class="card-icon"><i class="fa-solid fa-cookie-bite"></i></div>
+            <h2>5. Cookies</h2>
+          </div>
+          <p>
+            MadaAgri utilise des cookies pour assurer le bon fonctionnement de la
+            plateforme, mémoriser vos préférences et mesurer l'audience. Vous pouvez
+            configurer votre navigateur pour refuser tout ou partie des cookies.
+          </p>
+        </article>
+
+        <article class="card">
+          <div class="card-head">
+            <div class="card-icon"><i class="fa-solid fa-share-nodes"></i></div>
+            <h2>6. Partage des données</h2>
+          </div>
+          <p>Nous ne vendons jamais vos données. Elles peuvent être partagées avec :</p>
+          <ul>
+            <li>Les autres utilisateurs, dans la limite de votre profil public.</li>
+            <li>Nos prestataires techniques sous contrat de confidentialité.</li>
+            <li>Les autorités compétentes lorsque la loi l'exige.</li>
+          </ul>
+        </article>
+
+        <article class="card">
+          <div class="card-head">
+            <div class="card-icon"><i class="fa-solid fa-box-archive"></i></div>
+            <h2>7. Conservation des données</h2>
+          </div>
+          <p>
+            Vos données sont conservées tant que votre compte est actif. En cas de
+            suppression, elles sont effacées ou anonymisées dans un délai raisonnable,
+            sauf obligation légale de conservation.
+          </p>
+        </article>
+
+        <article class="card">
+          <div class="card-head">
+            <div class="card-icon"><i class="fa-solid fa-user-shield"></i></div>
+            <h2>8. Droits des utilisateurs</h2>
+          </div>
+          <p>Vous disposez à tout moment des droits suivants :</p>
+          <ul>
+            <li>Accéder à vos données et en obtenir une copie.</li>
+            <li>Rectifier ou mettre à jour vos informations.</li>
+            <li>Demander la suppression de votre compte.</li>
+            <li>Vous opposer à certains traitements.</li>
+            <li>Demander la portabilité de vos données.</li>
+          </ul>
+        </article>
+
+        <article class="card">
+          <div class="card-head">
+            <div class="card-icon"><i class="fa-solid fa-envelope-open-text"></i></div>
+            <h2>9. Contact</h2>
+          </div>
+          <p>Pour toute question relative à cette politique :</p>
+          <p>
+            <strong>MadaAgri</strong><br />
+            Antananarivo, Madagascar<br />
+            E-mail : <a href="mailto:contact@madaagri.mg" style="color: var(--green-700)">contact@madaagri.mg</a>
+          </p>
+        </article>
+
+      </div>
+    </main>
+
+    <!-- ====== Footer ====== -->
+    <footer class="footer">
+      <div class="container footer-grid">
+        <div class="footer-brand">
+          <a href="privacy.html" class="logo">
+            <i class="fa-solid fa-seedling"></i> MadaAgri
+          </a>
+          <p>La plateforme sociale et numérique au service des agriculteurs malgaches.</p>
+          <div class="socials">
+            <a href="#" aria-label="Facebook"><i class="fa-brands fa-facebook-f"></i></a>
+            <a href="#" aria-label="Instagram"><i class="fa-brands fa-instagram"></i></a>
+            <a href="#" aria-label="X"><i class="fa-brands fa-x-twitter"></i></a>
+            <a href="#" aria-label="LinkedIn"><i class="fa-brands fa-linkedin-in"></i></a>
+          </div>
+        </div>
+        <div>
+          <h4>Plateforme</h4>
+          <ul>
+            <li><a href="/">Accueil</a></li>
+            <li><a href="#">Fonctionnalités</a></li>
+            <li><a href="#">À propos</a></li>
+            <li><a href="mailto:contact@madaagri.mg">Contact</a></li>
+          </ul>
+        </div>
+        <div>
+          <h4>Légal</h4>
+          <ul>
+            <li><a href="privacy.html">Politique de confidentialité</a></li>
+            <li><a href="terms.html">Conditions d'utilisation</a></li>
+            <li><a href="#">Mentions légales</a></li>
+          </ul>
+        </div>
+      </div>
+      <div class="container footer-bottom">
+        © <span data-year>2026</span> MadaAgri — Tous droits réservés.
+      </div>
+    </footer>
+
+    <button class="scroll-top" aria-label="Retour en haut">
+      <i class="fa-solid fa-arrow-up"></i>
+    </button>
+
+    <script src="script.js"></script>
+  </body>
+</html>
